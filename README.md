@@ -1,4 +1,4 @@
-# Hi there, I'm Raunak 👋
+# Hi there, I'm Raunak 👋 
 
 I'm a Full Stack Developer 🚀 with a passion  for building innovative projects and a friendly approach to coding. My work includes a personal portfolio website and an expenses tracker, demonstrating skills in JavaScript and CSS. Eager to explore new technologies and collaborate on impactful projects.
 
@@ -7,7 +7,7 @@ I'm a Full Stack Developer 🚀 with a passion  for building innovative projects
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raunak_618?igsh=MTQ0bXp6MXF6b2M3NA==)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raunakchaurasiya/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]((https://www.linkedin.com/in/raunakchaurasiya/))
 
 
 ---
@@ -21,6 +21,8 @@ I'm a Full Stack Developer 🚀 with a passion  for building innovative projects
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 
 
 ---
