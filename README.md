@@ -28,9 +28,9 @@ I'm a Full Stack Developer 🚀 with a passion  for building innovative projects
 ---
 
 ## 📊 GitHub Stats:
-![Raunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaunakOnGithub&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=RaunakOnGithub&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakOnGithub&layout=compact&theme=dark)
+![RaunakOnGithub's Stats](https://github-readme-stats.vercel.app/api?username=RaunakOnGithub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![RaunakOnGithub's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaunakOnGithub&theme=vue-dark&hide_border=true)
+![RaunakOnGithub's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakOnGithub&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 ---
