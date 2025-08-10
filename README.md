@@ -1,6 +1,7 @@
 # Hi there, I'm Raunak 👋
 
-I'm a Full Stack Developer 🚀
+I'm a Full Stack Developer 🚀 with a passion  for building innovative projects and a friendly approach to coding. My work includes a personal portfolio website and an expenses tracker, demonstrating skills in JavaScript and CSS. Eager to explore new technologies and collaborate on impactful projects.
+
 
 ## 🌐 Socials:
 
