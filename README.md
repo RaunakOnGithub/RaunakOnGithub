@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="Raunak Chaurasiya - Frontend Developer Banner" width="100%" />
+  <img src="./banner.jpeg" alt="Raunak Chaurasiya - Frontend Developer Banner" width="100%" />
 
   <br/>
   <br/>
